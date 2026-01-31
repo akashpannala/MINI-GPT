@@ -1,0 +1,7 @@
+But var cannot be used for:
+
+method parameters
+
+return types
+
+class fields (unless local)
