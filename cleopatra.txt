@@ -1,0 +1,10 @@
+Dataset
+→ Data Cleaning
+→ EDA
+→ Feature Scaling
+→ Train-Test Split
+→ Cross-Validation
+→ Model Training
+→ Hyperparameter Tuning
+→ Model Evaluation
+→ Feature Interpretation
